@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/style.scss"],"names":[],"mappings":"AACA;EACI,oBAFkB,EAGrB;;AAED;EACI,8CAA4C,EAC/C","file":"../../src/styles/style.css","sourcesContent":["$primaryColor: #F8BBD0;\nbody {\n    background: $primaryColor;\n}\n\ndiv {\n    box-shadow: 0px 0px 10px rgba(255, 0, 0, .5);\n}"]}

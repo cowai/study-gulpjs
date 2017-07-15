@@ -1,0 +1,16 @@
+{
+  "name": "gulp-demo",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.11",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "start": "gulp"
+  }
+}
